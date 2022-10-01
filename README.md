@@ -6,6 +6,7 @@ Im trying my best a coding, some would say i ( •_•)>⌐■-■ ... Excel... 
 </p>
 <br/>
 
+<h4>My current languages:</h4>
 <div>
   <p align="center"!>
     <img  alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -20,6 +21,10 @@ Im trying my best a coding, some would say i ( •_•)>⌐■-■ ... Excel... 
     <img  alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain.svg"/>
   </p>
 </div>
+<p>
+Also Danish, English and im doing my best to learn some Spanish using <del>angry owl app</del> Duolingo
+</p>
+<br/>
 
           
   
@@ -27,7 +32,7 @@ Im trying my best a coding, some would say i ( •_•)>⌐■-■ ... Excel... 
           
           
 
-<br />
+
 
 
 
