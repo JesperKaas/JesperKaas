@@ -2,7 +2,7 @@
 
 <h4>Obligatory corny joke:</h4>
 <p>
-Im trying my best a coding, some would say i ( •_•)>⌐■-■ ... Excel... at it ... (⌐■_■)... YEAAH. That was my Horatio Caine impression.
+I'm trying my best at coding, some would say I ( •_•)>⌐■-■ ... Excel... at it ... (⌐■_■)... YEAAH. That was my Horatio Caine impression.
 </p>
 <br/>
 
@@ -22,7 +22,7 @@ Im trying my best a coding, some would say i ( •_•)>⌐■-■ ... Excel... 
   </p>
 </div>
 <p>
-Also Danish, English and im doing my best to learn some Spanish using <del>angry owl app</del> Duolingo
+Also Danish, English and I'm doing my best to learn some Spanish using <del>angry owl app</del> Duolingo
 </p>
 <br/>
 
